@@ -2,7 +2,7 @@
 ![imdb](Readme_images/imdb_image.jpg)
 # Wakanda-Movie-Studios – Entering the Movie Industry
 
-**Authors**: [Edwin Korir](https://github.com/Edwinkorir38), [Daniel Mutiso](https://github.com/dantegaucho), [Maryan Daud](https://github.com/DaudMaryann), [Margaret Sarah](https://github.com/SarahNjoroge)
+**Author**: [Edwin Korir](https://github.com/Edwinkorir38)
 
 ## Overview
 This project explores and analyses movie data from different sources to generate insights on trends, rating, audience reception, correlations and perfomances for a business stakeholder. The Wakanda Movie Studio can use this analysis to decide on the best approach on producing, marketing and managing movies.
@@ -131,5 +131,5 @@ Seventy Five (75%) of the movies had a runtime of less than 120 minutes with 350
 
 Please review our full analysis in [our Jupyter Notebook](student.ipynb) or our [presentation](Presentation.pdf).
 
-For any additional questions, please contact **[Edwin Korir](linkedin.com/in/edduh-kip-01170b288), [Daniel Mutiso](), [Maryan Daud]() and [Margaret Sarah](linkedin.com/in/sarah-njoroge-90206659)
+For any additional questions, please contact **[Edwin Korir](https://www.linkedin.com/in/edwin-korir-90a794382)
 
